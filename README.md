@@ -22,5 +22,18 @@ pip install numpy
   bmi :-  15.96 - 53.13
   children :- 0 - 5
 ```
-# after putting right kind of input 
+## after putting right kind of input 
 we can see the output like this
+![image](https://user-images.githubusercontent.com/51002537/98383924-1e808880-2073-11eb-8852-1fe22a42c0a3.png)
+
+## Contributor
+#### 1. Abhisek Rautaray
+#### 2. Sanjaya Das
+## Mentor
+#### Aditya Kamparia 
+#### Head of Deaprtment, 
+#### Lovely Professional University
+## Reference
+[Random forest](https://en.wikipedia.org/wiki/Random_forest)
+[Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
+(http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm)
