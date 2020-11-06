@@ -1,4 +1,6 @@
 # Insurance cost prediction system
+Aim of the problem is to Predict the cost of insurance of a individual person present in the particular region of country on the basis of 
+ Age, weight, height, children , region in which he/she lives by.
 ## Usage
 ### start by cloning this repository
 ```
