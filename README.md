@@ -27,8 +27,8 @@ we can see the output like this
 ![image](https://user-images.githubusercontent.com/51002537/98383924-1e808880-2073-11eb-8852-1fe22a42c0a3.png)
 
 ## Contributor
-#### 1. Abhisek Rautaray
-#### 2. Sanjaya Das
+#### 1. [Sanjaya Das](https://github.com/sd9989)
+#### 2. [Abhisek Rautaray](https://github.com/abhisekgudu)
 ## Mentor
 #### Aditya Kamparia 
 #### Head of Deaprtment, 
